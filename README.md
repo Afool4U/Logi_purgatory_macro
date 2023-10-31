@@ -13,7 +13,10 @@
 
 在群友们的建议下做了更好的付费版本，使用体验和稳定程度遥遥领先
 
-## → [点此处下载](https://share.weiyun.com/9Ne9jHaZ)
+![image](https://github.com/Afool4U/Logi_purgatory_macro/assets/83582188/3604705c-909a-4242-9c56-df8bdcb9bd63)
+
+
+## → [点此处下载](https://share.weiyun.com/Qkom22bS)
 
 
 ### 2023.9.14
@@ -24,12 +27,15 @@
 
 [点此查看教程](http://120.27.142.252:8848/instruction)
 
+### 2023.10.30
+
+增加了USP功能（本意是不希望增加USP功能，但由于近期特殊事件不得不做~ ~~有剑不用和没剑是两回事~~）。
 ___
 
 ### 2023.8.24 
 某些无良商家，倒卖代码就算了(毕竟是开源免费的)，怎么还敢说自己是全网首发呢？
 
-<img src="https://github.com/Afool4U/Logi_purgatory_macro/assets/83582188/39ae442e-225e-4969-9701-5ecb49808cb1" width="50%">
+<img src="https://github.com/Afool4U/Logi_purgatory_macro/assets/83582188/39ae442e-225e-4969-9701-5ecb49808cb1" width="40%">
 
 ### 游戏内设置
 
